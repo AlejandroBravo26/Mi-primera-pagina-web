@@ -1,1 +1,2 @@
 # Mi-primera-pagina-web
+##Esta página web está diseñada con HTML y CSS. Tiene como objetivo destacar cómo el cine y la música contribuyen al bienestar humano, incluye una frase motivadora, una cita inspiradora. Por otra parte, contiene una imagen relacionada con los efectos positivos de la música y enlaces externos para ampliar la información. Además, muestra una lista organizada con mis películas favoritas y otra lista con mis canciones favoritas. 
